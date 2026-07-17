@@ -25,7 +25,7 @@ espera: `~/.agents/skills/<nome>`), mas por função elas se agrupam assim:
 `hallmark`
 
 **Revisão de design (avaliar, não corrigir)**
-`audit` · `critique`
+`audit` · `critique` · `slop-cleaner`
 
 **Apple HIG (guias de plataforma da Apple)**
 `hig-components-content` · `hig-components-controls` ·
