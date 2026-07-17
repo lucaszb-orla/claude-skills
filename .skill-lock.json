@@ -1,0 +1,587 @@
+{
+  "version": 3,
+  "skills": {
+    "animate": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/animate/SKILL.md",
+      "skillFolderHash": "6242b4111ade542a18da2d30869e5714e6ebea99",
+      "installedAt": "2026-03-26T14:43:21.970Z",
+      "updatedAt": "2026-03-26T14:43:21.970Z"
+    },
+    "arrange": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/arrange/SKILL.md",
+      "skillFolderHash": "2bc9212d2a2b2de235dcebd555e812b7996a447a",
+      "installedAt": "2026-03-26T14:43:21.996Z",
+      "updatedAt": "2026-03-26T14:43:21.996Z"
+    },
+    "audit": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/audit/SKILL.md",
+      "skillFolderHash": "46d0962546696aad9095faf527f7e2f24d814c4b",
+      "installedAt": "2026-03-26T14:43:22.027Z",
+      "updatedAt": "2026-03-26T14:43:22.027Z"
+    },
+    "bolder": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/bolder/SKILL.md",
+      "skillFolderHash": "417cf3cecc29e7abb21c820b556a402d29036262",
+      "installedAt": "2026-03-26T14:43:22.047Z",
+      "updatedAt": "2026-03-26T14:43:22.047Z"
+    },
+    "clarify": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/clarify/SKILL.md",
+      "skillFolderHash": "5d53bf731210657a96adaeca9b2973bde636e603",
+      "installedAt": "2026-03-26T14:43:22.064Z",
+      "updatedAt": "2026-03-26T14:43:22.064Z"
+    },
+    "colorize": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/colorize/SKILL.md",
+      "skillFolderHash": "60e43005f7c59158603832dc37ce3a46ef422c7a",
+      "installedAt": "2026-03-26T14:43:22.082Z",
+      "updatedAt": "2026-03-26T14:43:22.082Z"
+    },
+    "critique": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/critique/SKILL.md",
+      "skillFolderHash": "599ee919c700ab236dfb3f594433a5ea16a5b916",
+      "installedAt": "2026-03-26T14:43:22.098Z",
+      "updatedAt": "2026-03-26T14:43:22.098Z"
+    },
+    "delight": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/delight/SKILL.md",
+      "skillFolderHash": "4b80dc3054347940b259e67cc89cb8b0b9ef2ccd",
+      "installedAt": "2026-03-26T14:43:22.114Z",
+      "updatedAt": "2026-03-26T14:43:22.114Z"
+    },
+    "distill": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/distill/SKILL.md",
+      "skillFolderHash": "0f2370ebd61393ff03568ee9a0cda4776748241c",
+      "installedAt": "2026-03-26T14:43:22.138Z",
+      "updatedAt": "2026-03-26T14:43:22.138Z"
+    },
+    "extract": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/extract/SKILL.md",
+      "skillFolderHash": "161565f6471d640fc75725718f9b37906848aa87",
+      "installedAt": "2026-03-26T14:43:22.162Z",
+      "updatedAt": "2026-03-26T14:43:22.162Z"
+    },
+    "frontend-design": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/frontend-design/SKILL.md",
+      "skillFolderHash": "f189767c1df18165c019c0354874fe46064d592b",
+      "installedAt": "2026-03-26T14:43:22.179Z",
+      "updatedAt": "2026-03-26T14:43:22.179Z"
+    },
+    "harden": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/harden/SKILL.md",
+      "skillFolderHash": "8a28ce8076cf52b22ce509d033bd2b81091bcc30",
+      "installedAt": "2026-03-26T14:43:22.196Z",
+      "updatedAt": "2026-03-26T14:43:22.196Z"
+    },
+    "normalize": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/normalize/SKILL.md",
+      "skillFolderHash": "c55efd164085466706df5968919a4693fceaeef8",
+      "installedAt": "2026-03-26T14:43:22.214Z",
+      "updatedAt": "2026-03-26T14:43:22.214Z"
+    },
+    "onboard": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/onboard/SKILL.md",
+      "skillFolderHash": "aea7fd84718820616d767bdafaba13aa43853f9b",
+      "installedAt": "2026-03-26T14:43:22.229Z",
+      "updatedAt": "2026-03-26T14:43:22.229Z"
+    },
+    "optimize": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/optimize/SKILL.md",
+      "skillFolderHash": "184f65b00517eb9612350c8fe5958bed788e0c20",
+      "installedAt": "2026-03-26T14:43:22.249Z",
+      "updatedAt": "2026-03-26T14:43:22.249Z"
+    },
+    "overdrive": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/overdrive/SKILL.md",
+      "skillFolderHash": "45f17b570b0fed0709247d6efa1f3e7f0c2dfb81",
+      "installedAt": "2026-03-26T14:43:22.264Z",
+      "updatedAt": "2026-03-26T14:43:22.264Z"
+    },
+    "polish": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/polish/SKILL.md",
+      "skillFolderHash": "fe3d4baa60b9b5c8db22d2f88c38dcf57816b47d",
+      "installedAt": "2026-03-26T14:43:22.278Z",
+      "updatedAt": "2026-03-26T14:43:22.278Z"
+    },
+    "quieter": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/quieter/SKILL.md",
+      "skillFolderHash": "658350979bee5db55d1809781c891f196fd30a07",
+      "installedAt": "2026-03-26T14:43:22.292Z",
+      "updatedAt": "2026-03-26T14:43:22.292Z"
+    },
+    "teach-impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/teach-impeccable/SKILL.md",
+      "skillFolderHash": "6f7fb7c44d29fcc7760b3b6db320f772d89c476a",
+      "installedAt": "2026-03-26T14:43:22.306Z",
+      "updatedAt": "2026-03-26T14:43:22.306Z"
+    },
+    "typeset": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/pbakaus/impeccable.git",
+      "skillPath": ".agents/skills/typeset/SKILL.md",
+      "skillFolderHash": "4b03da6a5ec4abcb9f836943b14cd3cd8dc752d3",
+      "installedAt": "2026-03-26T14:43:22.321Z",
+      "updatedAt": "2026-03-26T14:43:22.321Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
+      "installedAt": "2026-03-26T14:43:25.077Z",
+      "updatedAt": "2026-03-26T14:43:25.077Z"
+    },
+    "karpathy-guidelines": {
+      "source": "multica-ai/andrej-karpathy-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/multica-ai/andrej-karpathy-skills.git",
+      "skillPath": "skills/karpathy-guidelines/SKILL.md",
+      "skillFolderHash": "e119339197d600aa39a24fd7a95c946800c9c949",
+      "pluginName": "andrej-karpathy-skills",
+      "installedAt": "2026-07-08T13:15:23.199Z",
+      "updatedAt": "2026-07-08T13:15:23.199Z"
+    },
+    "transitions-dev": {
+      "source": "Jakubantalik/transitions.dev",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/Jakubantalik/transitions.dev.git",
+      "skillPath": "skills/transitions-dev/SKILL.md",
+      "skillFolderHash": "644eb4b270f18e714b523266c5ab80eeea64c534",
+      "installedAt": "2026-07-08T13:21:17.230Z",
+      "updatedAt": "2026-07-08T13:21:17.230Z"
+    },
+    "api-and-interface-design": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/api-and-interface-design/SKILL.md",
+      "skillFolderHash": "79410f2b6928b5ecb760e34e4c58c68de71f7fd8",
+      "installedAt": "2026-07-08T13:26:46.699Z",
+      "updatedAt": "2026-07-08T13:26:46.699Z"
+    },
+    "browser-testing-with-devtools": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/browser-testing-with-devtools/SKILL.md",
+      "skillFolderHash": "42be59520831f02c46bce7bed1aac6ab0592947c",
+      "installedAt": "2026-07-08T13:26:46.701Z",
+      "updatedAt": "2026-07-08T13:26:46.701Z"
+    },
+    "ci-cd-and-automation": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/ci-cd-and-automation/SKILL.md",
+      "skillFolderHash": "34db321777a17e268ac425f0f7f2501dda55c955",
+      "installedAt": "2026-07-08T13:26:46.702Z",
+      "updatedAt": "2026-07-08T13:26:46.702Z"
+    },
+    "code-review-and-quality": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/code-review-and-quality/SKILL.md",
+      "skillFolderHash": "49d4d30c3839541abb063446b3b24bc6c0dc5ae6",
+      "installedAt": "2026-07-08T13:26:46.702Z",
+      "updatedAt": "2026-07-08T13:26:46.702Z"
+    },
+    "code-simplification": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/code-simplification/SKILL.md",
+      "skillFolderHash": "15b6e21924188ee46402a8c91963162fd9056c7d",
+      "installedAt": "2026-07-08T13:26:46.703Z",
+      "updatedAt": "2026-07-08T13:26:46.703Z"
+    },
+    "context-engineering": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/context-engineering/SKILL.md",
+      "skillFolderHash": "453c3e8d973ddb10402b7c4e6b0d7fce295a43a8",
+      "installedAt": "2026-07-08T13:26:46.703Z",
+      "updatedAt": "2026-07-08T13:26:46.703Z"
+    },
+    "debugging-and-error-recovery": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/debugging-and-error-recovery/SKILL.md",
+      "skillFolderHash": "8845857bad758f5313263b7d79f7d82067b764bb",
+      "installedAt": "2026-07-08T13:26:46.704Z",
+      "updatedAt": "2026-07-08T13:26:46.704Z"
+    },
+    "deprecation-and-migration": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/deprecation-and-migration/SKILL.md",
+      "skillFolderHash": "d80eaf65b255911ece940e91f9aa6008240fd2bb",
+      "installedAt": "2026-07-08T13:26:46.704Z",
+      "updatedAt": "2026-07-08T13:26:46.704Z"
+    },
+    "documentation-and-adrs": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/documentation-and-adrs/SKILL.md",
+      "skillFolderHash": "df79e5ccc01e5169e61ec0c98196d171617b4458",
+      "installedAt": "2026-07-08T13:26:46.705Z",
+      "updatedAt": "2026-07-08T13:26:46.705Z"
+    },
+    "doubt-driven-development": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/doubt-driven-development/SKILL.md",
+      "skillFolderHash": "65fe0595fb161817e8073be1671a65eb4341fa55",
+      "installedAt": "2026-07-08T13:26:46.706Z",
+      "updatedAt": "2026-07-08T13:26:46.706Z"
+    },
+    "frontend-ui-engineering": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/frontend-ui-engineering/SKILL.md",
+      "skillFolderHash": "7c86ee1c42a9bbe3ef80c774a4bd5a49668513fb",
+      "installedAt": "2026-07-08T13:26:46.706Z",
+      "updatedAt": "2026-07-08T13:26:46.706Z"
+    },
+    "git-workflow-and-versioning": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/git-workflow-and-versioning/SKILL.md",
+      "skillFolderHash": "6c54b67dd522883fc69013535c7cf35b8cdb8930",
+      "installedAt": "2026-07-08T13:26:46.707Z",
+      "updatedAt": "2026-07-08T13:26:46.707Z"
+    },
+    "idea-refine": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/idea-refine/SKILL.md",
+      "skillFolderHash": "14f474d8f51370ddd9127ff3d171810a1acf891a",
+      "installedAt": "2026-07-08T13:26:46.707Z",
+      "updatedAt": "2026-07-08T13:26:46.707Z"
+    },
+    "incremental-implementation": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/incremental-implementation/SKILL.md",
+      "skillFolderHash": "da7154bb2c7b46a921534ed03c9ca15376602dc1",
+      "installedAt": "2026-07-08T13:26:46.708Z",
+      "updatedAt": "2026-07-08T13:26:46.708Z"
+    },
+    "interview-me": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/interview-me/SKILL.md",
+      "skillFolderHash": "0797d64561cca6ad975d9e5d1f1497cba83a517b",
+      "installedAt": "2026-07-08T13:26:46.708Z",
+      "updatedAt": "2026-07-08T13:26:46.708Z"
+    },
+    "observability-and-instrumentation": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/observability-and-instrumentation/SKILL.md",
+      "skillFolderHash": "e970a55caf9ef4128bdb04af83b4a4dd08045b37",
+      "installedAt": "2026-07-08T13:26:46.709Z",
+      "updatedAt": "2026-07-08T13:26:46.709Z"
+    },
+    "performance-optimization": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/performance-optimization/SKILL.md",
+      "skillFolderHash": "f904d17bd259a81493209cfc3f3c00cafd321b3a",
+      "installedAt": "2026-07-08T13:26:46.709Z",
+      "updatedAt": "2026-07-08T13:26:46.709Z"
+    },
+    "planning-and-task-breakdown": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/planning-and-task-breakdown/SKILL.md",
+      "skillFolderHash": "bad0e4c4216693e6908e273228b1484fdd6d2246",
+      "installedAt": "2026-07-08T13:26:46.710Z",
+      "updatedAt": "2026-07-08T13:26:46.710Z"
+    },
+    "security-and-hardening": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/security-and-hardening/SKILL.md",
+      "skillFolderHash": "c6caf05316657beae16751647f93c7a384020001",
+      "installedAt": "2026-07-08T13:26:46.710Z",
+      "updatedAt": "2026-07-08T13:26:46.710Z"
+    },
+    "shipping-and-launch": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/shipping-and-launch/SKILL.md",
+      "skillFolderHash": "4f404de257f66732e1507cddf060adcd435a1322",
+      "installedAt": "2026-07-08T13:26:46.710Z",
+      "updatedAt": "2026-07-08T13:26:46.710Z"
+    },
+    "source-driven-development": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/source-driven-development/SKILL.md",
+      "skillFolderHash": "f935ca8f7220760d619a02b55948ad534f4078b5",
+      "installedAt": "2026-07-08T13:26:46.711Z",
+      "updatedAt": "2026-07-08T13:26:46.711Z"
+    },
+    "spec-driven-development": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/spec-driven-development/SKILL.md",
+      "skillFolderHash": "8a6049f381636e580e2db44e6cc65cb5682b8bcc",
+      "installedAt": "2026-07-08T13:26:46.711Z",
+      "updatedAt": "2026-07-08T13:26:46.711Z"
+    },
+    "test-driven-development": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/test-driven-development/SKILL.md",
+      "skillFolderHash": "817d040d93228719aa21c8cd04ea05717a1cdcbf",
+      "installedAt": "2026-07-08T13:26:46.711Z",
+      "updatedAt": "2026-07-08T13:26:46.711Z"
+    },
+    "using-agent-skills": {
+      "source": "addyosmani/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/addyosmani/agent-skills.git",
+      "skillPath": "skills/using-agent-skills/SKILL.md",
+      "skillFolderHash": "27e5995a3dc4dd91db86dec8933f476f9275ff8e",
+      "installedAt": "2026-07-08T13:26:46.711Z",
+      "updatedAt": "2026-07-08T13:26:46.711Z"
+    },
+    "hig-components-content": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-components-content/SKILL.md",
+      "skillFolderHash": "cf3f8e2c7d0ea9c732f1a97cb6972d82ea3017a7",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.902Z",
+      "updatedAt": "2026-07-08T13:36:53.902Z"
+    },
+    "hig-components-controls": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-components-controls/SKILL.md",
+      "skillFolderHash": "de950af8c9c5986ed7940dfc79d1554c4b0e6b05",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.904Z",
+      "updatedAt": "2026-07-08T13:36:53.904Z"
+    },
+    "hig-components-dialogs": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-components-dialogs/SKILL.md",
+      "skillFolderHash": "e09dc9a426c1062f2e9ef350cf6c1edc2025792b",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.906Z",
+      "updatedAt": "2026-07-08T13:36:53.906Z"
+    },
+    "hig-components-layout": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-components-layout/SKILL.md",
+      "skillFolderHash": "2f442a1626fdcaa382f0d3d11f412dee52e3ecfe",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.907Z",
+      "updatedAt": "2026-07-08T13:36:53.907Z"
+    },
+    "hig-components-menus": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-components-menus/SKILL.md",
+      "skillFolderHash": "b93ebc40e378a326596f5d7eb8c95ca51682ce4a",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.908Z",
+      "updatedAt": "2026-07-08T13:36:53.908Z"
+    },
+    "hig-components-search": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-components-search/SKILL.md",
+      "skillFolderHash": "6675760a5a545716bbfcace4753bd103ff1483c7",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.909Z",
+      "updatedAt": "2026-07-08T13:36:53.909Z"
+    },
+    "hig-components-status": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-components-status/SKILL.md",
+      "skillFolderHash": "c56150cfbf127c429553ed77c32508e6adb505d2",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.910Z",
+      "updatedAt": "2026-07-08T13:36:53.910Z"
+    },
+    "hig-components-system": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-components-system/SKILL.md",
+      "skillFolderHash": "f5e516e683946de50a6271aea9658e5025de22a2",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.911Z",
+      "updatedAt": "2026-07-08T13:36:53.911Z"
+    },
+    "hig-foundations": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-foundations/SKILL.md",
+      "skillFolderHash": "6474fae03318badb6e19b08065f8e3060605ade1",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.912Z",
+      "updatedAt": "2026-07-08T13:36:53.912Z"
+    },
+    "hig-inputs": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-inputs/SKILL.md",
+      "skillFolderHash": "00748ec47103089c55ff771b9f1ffe355933a201",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.913Z",
+      "updatedAt": "2026-07-08T13:36:53.913Z"
+    },
+    "hig-patterns": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-patterns/SKILL.md",
+      "skillFolderHash": "52a72b9e40c3d4344cf16eef3fc06b785cef6c4e",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.914Z",
+      "updatedAt": "2026-07-08T13:36:53.914Z"
+    },
+    "hig-platforms": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-platforms/SKILL.md",
+      "skillFolderHash": "49598842c95dfe236f1e2623dcc6b74a265b8052",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.915Z",
+      "updatedAt": "2026-07-08T13:36:53.915Z"
+    },
+    "hig-project-context": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-project-context/SKILL.md",
+      "skillFolderHash": "a73dfd475d88dff262889942a58c1264949e6e09",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.917Z",
+      "updatedAt": "2026-07-08T13:36:53.917Z"
+    },
+    "hig-technologies": {
+      "source": "raintree-technology/hig-doctor",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
+      "skillPath": "skills/hig-technologies/SKILL.md",
+      "skillFolderHash": "7c60fa3376a1ca8e9753e8e395a4a5d20d5bfafe",
+      "pluginName": "apple-hig-skills",
+      "installedAt": "2026-07-08T13:36:53.918Z",
+      "updatedAt": "2026-07-08T13:36:53.918Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "warp",
+    "claude-code",
+    "windsurf"
+  ]
+}
