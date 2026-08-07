@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lucas Setup"
+  short_description: "Inicia projetos com as preferências do Lucas"
+  default_prompt: "Use $lucas-setup para preparar este novo projeto com minhas preferências e o contexto da plataforma."

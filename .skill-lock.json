@@ -425,126 +425,6 @@
       "installedAt": "2026-07-08T13:26:46.711Z",
       "updatedAt": "2026-07-08T13:26:46.711Z"
     },
-    "hig-components-content": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-components-content/SKILL.md",
-      "skillFolderHash": "cf3f8e2c7d0ea9c732f1a97cb6972d82ea3017a7",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.902Z",
-      "updatedAt": "2026-07-08T13:36:53.902Z"
-    },
-    "hig-components-controls": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-components-controls/SKILL.md",
-      "skillFolderHash": "de950af8c9c5986ed7940dfc79d1554c4b0e6b05",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.904Z",
-      "updatedAt": "2026-07-08T13:36:53.904Z"
-    },
-    "hig-components-dialogs": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-components-dialogs/SKILL.md",
-      "skillFolderHash": "e09dc9a426c1062f2e9ef350cf6c1edc2025792b",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.906Z",
-      "updatedAt": "2026-07-08T13:36:53.906Z"
-    },
-    "hig-components-layout": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-components-layout/SKILL.md",
-      "skillFolderHash": "2f442a1626fdcaa382f0d3d11f412dee52e3ecfe",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.907Z",
-      "updatedAt": "2026-07-08T13:36:53.907Z"
-    },
-    "hig-components-menus": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-components-menus/SKILL.md",
-      "skillFolderHash": "b93ebc40e378a326596f5d7eb8c95ca51682ce4a",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.908Z",
-      "updatedAt": "2026-07-08T13:36:53.908Z"
-    },
-    "hig-components-search": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-components-search/SKILL.md",
-      "skillFolderHash": "6675760a5a545716bbfcace4753bd103ff1483c7",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.909Z",
-      "updatedAt": "2026-07-08T13:36:53.909Z"
-    },
-    "hig-components-status": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-components-status/SKILL.md",
-      "skillFolderHash": "c56150cfbf127c429553ed77c32508e6adb505d2",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.910Z",
-      "updatedAt": "2026-07-08T13:36:53.910Z"
-    },
-    "hig-components-system": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-components-system/SKILL.md",
-      "skillFolderHash": "f5e516e683946de50a6271aea9658e5025de22a2",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.911Z",
-      "updatedAt": "2026-07-08T13:36:53.911Z"
-    },
-    "hig-foundations": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-foundations/SKILL.md",
-      "skillFolderHash": "6474fae03318badb6e19b08065f8e3060605ade1",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.912Z",
-      "updatedAt": "2026-07-08T13:36:53.912Z"
-    },
-    "hig-inputs": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-inputs/SKILL.md",
-      "skillFolderHash": "00748ec47103089c55ff771b9f1ffe355933a201",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.913Z",
-      "updatedAt": "2026-07-08T13:36:53.913Z"
-    },
-    "hig-patterns": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-patterns/SKILL.md",
-      "skillFolderHash": "52a72b9e40c3d4344cf16eef3fc06b785cef6c4e",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.914Z",
-      "updatedAt": "2026-07-08T13:36:53.914Z"
-    },
-    "hig-platforms": {
-      "source": "raintree-technology/hig-doctor",
-      "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-platforms/SKILL.md",
-      "skillFolderHash": "49598842c95dfe236f1e2623dcc6b74a265b8052",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.915Z",
-      "updatedAt": "2026-07-08T13:36:53.915Z"
-    },
     "hig-project-context": {
       "source": "raintree-technology/hig-doctor",
       "sourceType": "github",
@@ -555,15 +435,23 @@
       "installedAt": "2026-07-08T13:36:53.917Z",
       "updatedAt": "2026-07-08T13:36:53.917Z"
     },
-    "hig-technologies": {
-      "source": "raintree-technology/hig-doctor",
+    "seo-audit": {
+      "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
-      "sourceUrl": "https://github.com/raintree-technology/hig-doctor.git",
-      "skillPath": "skills/hig-technologies/SKILL.md",
-      "skillFolderHash": "7c60fa3376a1ca8e9753e8e395a4a5d20d5bfafe",
-      "pluginName": "apple-hig-skills",
-      "installedAt": "2026-07-08T13:36:53.918Z",
-      "updatedAt": "2026-07-08T13:36:53.918Z"
+      "sourceUrl": "https://github.com/coreyhaines31/marketingskills.git",
+      "skillPath": "skills/seo-audit/SKILL.md",
+      "skillFolderHash": "0f1f5e31ce921513828ac8f440f358df6fa0751a",
+      "installedAt": "2026-07-20T12:48:47.756Z",
+      "updatedAt": "2026-07-20T12:48:47.756Z"
+    },
+    "make-interfaces-feel-better": {
+      "source": "jakubkrehel/make-interfaces-feel-better",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jakubkrehel/make-interfaces-feel-better.git",
+      "skillPath": "skills/make-interfaces-feel-better/SKILL.md",
+      "skillFolderHash": "ae0b04b484f3c222048395723a253f6959bf727d",
+      "installedAt": "2026-07-23T12:54:49.548Z",
+      "updatedAt": "2026-07-23T12:54:49.548Z"
     }
   },
   "dismissed": {
