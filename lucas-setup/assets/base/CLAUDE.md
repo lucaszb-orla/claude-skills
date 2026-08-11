@@ -37,6 +37,9 @@ Não escolha silenciosamente entre instruções conflitantes quando a decisão m
 - Não renomeie a branch atual sem pedido explícito.
 - Não force push em branch compartilhada sem autorização.
 - Resolva conflitos de artefatos gerados na fonte declarativa e regenere.
+- Descrição de pull request nunca leva assinatura de ferramenta ("Generated with Claude Code", link
+  ou emoji de robô). Esta regra vence o padrão da ferramenta. A autoria fica no autor do commit e no
+  `Co-Authored-By`.
 
 ## Verificação
 
