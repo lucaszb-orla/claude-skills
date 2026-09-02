@@ -12,6 +12,14 @@ máquina/projeto sem precisar reconfigurar tudo do zero.
   resto (a maioria de [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable)).
   `.skill-lock.json` registra a origem, versão e hash de cada uma — é o que o
   instalador usa pra saber o que já está instalado e de onde atualizar.
+- **Instaladas na mão**: `diagram-design` (de
+  [`cathrynlavery/diagram-design`](https://github.com/cathrynlavery/diagram-design),
+  clonado em `~/code` e symlinkado) e `security-audit` (de
+  [`bybren-llc/wtfb-safe-agentic-workflow`](https://github.com/bybren-llc/wtfb-safe-agentic-workflow),
+  copiada direto). Nenhuma das duas está no `.skill-lock.json`, então `npx
+  skills` não sabe atualizá-las — pra pegar versão nova, buscar na fonte.
+  `security-audit` é template: tem tokens `{{PLACEHOLDER}}` pra trocar pelos
+  valores do projeto antes de usar.
 
 Duas ressalvas sobre as minhas:
 
@@ -52,9 +60,12 @@ espera: `~/.agents/skills/<nome>`), mas por função elas se agrupam assim:
 `git-workflow-and-versioning` · `incremental-implementation` ·
 `karpathy-guidelines` · `observability-and-instrumentation` ·
 `performance-optimization` · `planning-and-task-breakdown` ·
-`security-and-hardening` · `shipping-and-launch` ·
+`security-and-hardening` · `security-audit` · `shipping-and-launch` ·
 `source-driven-development` · `spec-driven-development` ·
 `test-driven-development`
+
+**Diagramas técnicos**
+`diagram-design`
 
 **Descoberta de requisitos**
 `idea-refine` · `interview-me`
@@ -99,19 +110,32 @@ O guia HIG completo, em formato de vault Obsidian, vive no segundo cérebro
 
 ## O que não está neste repo
 
-**Plugins.** As skills de product management vêm do marketplace
-[`phuryn/pm-skills`](https://github.com/phuryn/pm-skills) e são instaladas por
-outro mecanismo: `claude plugin`, registrado em `~/.claude/settings.json`, não
-em `~/.agents/skills`. Numa máquina nova:
+**Plugins.** Vários plugins instalados via `claude plugin` ficam registrados em
+`~/.claude/plugins`, não em `~/.agents/skills`, então não têm cópia aqui. Numa
+máquina nova:
 
 ```sh
+# skills de product management (4 dos 9 do marketplace)
 claude plugin marketplace add phuryn/pm-skills
 for p in pm-product-discovery pm-execution pm-product-strategy pm-data-analytics; do
   claude plugin install "$p@pm-skills"
 done
+
+# ponytail: modo "dev sênior preguiçoso" (hook de sessão + slash commands)
+claude plugin marketplace add DietrichGebert/ponytail
+claude plugin install ponytail@ponytail
+
+# do marketplace oficial da Anthropic
+claude plugin marketplace add anthropics/claude-plugins-official
+claude plugin install vercel@claude-plugins-official     # deploy, AI SDK, Next.js
+claude plugin install swift-lsp@claude-plugins-official  # LSP de Swift
 ```
 
-São 4 dos 9 plugins do marketplace. Os outros 5 foram avaliados e descartados:
+(Existe também um `frontend-design@claude-plugins-official` instalado com
+escopo de projeto num repo antigo. É redundante com a skill `frontend-design`
+que já está neste repo — não vale reinstalar.)
+
+Dos 9 plugins do `pm-skills`, os outros 5 foram avaliados e descartados:
 `pm-ai-shipping` colide com as skills de engenharia já listadas acima,
 `pm-toolkit` tem escopo alheio e as partes jurídicas assumem GDPR/CCPA sem
 mencionar LGPD, e `pm-market-research`, `pm-go-to-market` e

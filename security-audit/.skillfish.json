@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "security-audit",
+  "owner": "bybren-llc",
+  "repo": "wtfb-safe-agentic-workflow",
+  "path": ".agents/skills/security-audit",
+  "branch": "main",
+  "sha": "1cbff2831aa13335b68ca6b60d2ebac7043e59d0",
+  "source": "manual"
+}
